@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Checkout - Amar Shwapno</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Checkout</h1></header>
+  <main style="padding:20px;">
+    <p>Selected products will be shown here.</p>
+    <button onclick="alert('Order placed')">Place Order</button>
+  </main>
+</body>
+</html>

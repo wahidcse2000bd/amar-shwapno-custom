@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - Amar Shwapno</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Login</h1></header>
+  <main style="text-align:center; padding:30px;">
+    <input type="text" placeholder="Username"><br><br>
+    <input type="password" placeholder="Password"><br><br>
+    <button onclick="alert('Logged in')">Login</button>
+  </main>
+</body>
+</html>
